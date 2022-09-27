@@ -1,0 +1,17 @@
+
+.header{
+    background-color: transparent;
+    color: gray;
+    margin: 7%;
+}
+.amharictext{
+    font-size: 400%;
+    font-family: 'DynaPuff', cursive;
+    font-weight:bolder;
+    color: gray;
+}
+.container{
+    display: flex;
+    align-items: center;  
+    justify-content: space-between; 
+}

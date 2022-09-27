@@ -1,0 +1,22 @@
+.card{
+    color: gray;
+    background-color: black;
+    height: 28vh;
+    width: 9vw;
+    border-color: grey;
+    border-width: 0.1em;
+    border-style: solid;
+    border-radius: 10%;
+    margin: 1em;
+}
+img{
+    height: 29vh;
+    width: 10vw;
+    object-fit: fill;
+    border-radius: 10%;
+    display: block;
+}
+a:hover img{
+    transform: scale(1.14);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

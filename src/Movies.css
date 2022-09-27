@@ -1,0 +1,14 @@
+.movies{
+    background-color: transparent;
+    color: gray;
+    margin: 3%;
+    font-family: 'DynaPuff', cursive;
+    
+}
+.carousel{
+    display: flex;
+}
+.colorclass{
+    color: white;
+    margin: 20% 44%;
+}
